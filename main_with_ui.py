@@ -302,7 +302,7 @@ def use_suggestion():
         actual_world_name = expected
     except:
         pass
-
+#39307
     
 def on_entry_change(*args):
     global actual_world_name, expected
@@ -445,7 +445,7 @@ def convert():
             return
 
         if canConvert == True:
-            functions_path = os.path.join(saves_path, actual_world_name, "datapacks", "image_to_mc", "data", "to_minecraft", "functions")
+            functions_path = os.path.join(saves_path, actual_world_name, "datapacks", "image_to_mc", "data", "to_minecraft", "function")
             datapack_path = os.path.join(saves_path, actual_world_name, "datapacks", "image_to_mc")
             
             ensure_directory_exists(functions_path)

@@ -445,7 +445,7 @@ def convert():
             return
 
         if canConvert == True:
-            functions_path = os.path.join(saves_path, actual_world_name, "datapacks", "image_to_mc", "data", "to_minecraft", "function")
+            functions_path = os.path.join(saves_path, actual_world_name, "datapacks", "image_to_mc", "data", "to_minecraft", "functions")
             datapack_path = os.path.join(saves_path, actual_world_name, "datapacks", "image_to_mc")
             
             ensure_directory_exists(functions_path)

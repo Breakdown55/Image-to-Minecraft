@@ -7,7 +7,6 @@ A tool for converting images into an .mcfunction file to place blocks that recre
 # Notes / Credits
 Instructions can be found in the application
 
-Wrench image from CleanPNG
 Chain Command Block thumbnail from Minecraft Wiki - Fandom
 
 

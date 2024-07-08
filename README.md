@@ -11,3 +11,5 @@ A tool for converting images into an .mcfunction file to place blocks that recre
 - Does not convert .AVIF files, but it will convert a wide variety of image formats
 - There are other themes referenced in the code, but are not implemented. The dark theme gets the job done, and it looks good, so it will be the only theme for the forseeable future
 - All code is in main_with_ui.py
+
+# Special Thanks to Ydop_ for the [Showcase Video](about:blank)

@@ -15,3 +15,4 @@ A tool for converting images into an .mcfunction file to place blocks that recre
 - All code is in main_with_ui.py
 - 1.21+ is currently supported, if you wish to use an earlier version, change the folder name "function" to "functions" in your world's datapack after using the program like normal
 
+Thanks [FastBlazer808](https://github.com/FastBlazer808) for helping with the UI elements :)

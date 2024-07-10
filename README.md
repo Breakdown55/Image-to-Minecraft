@@ -11,7 +11,7 @@ A tool for converting images into an .mcfunction file to place blocks that recre
 - The max length for any dimension of the image is 256 blocks. The other dimension is scaled accordingly. For example, if an image is 500x1000, it will be 128x256 in Minecraft
 - UI built with Tkinter, but I would use CustomTkinter if I had to remake this
 - Does not convert .AVIF files, but it will convert a wide variety of image formats
-- There are other themes referenced in the code, but are not implemented. The dark theme gets the job done, and it looks good, so it will be the only theme for the forseeable future
+- There are other themes referenced in the code, but are not implemented. The current theme gets the job done, and it looks good, so it will be the only theme for the forseeable future
 - All code is in main_with_ui.py
 - 1.21+ is currently supported, if you wish to use an earlier version, change the folder name "function" to "functions" in your world's datapack after using the program like normal
 

@@ -6,6 +6,10 @@ A tool for converting images into an .mcfunction file to place blocks that recre
 
 # Special Thanks to Ydop_ for the 🎉 [Showcase Video](about:blank) 🎉
 
+# Support This Project ❤️
+Unfortunately, there isn't a PayPal or BuyMeACoffee link, but feel free to support by gifting me a rank on Hypixel :)))
+IGN: BreakOut455
+
 # Notes 📝
 - Once a pixel color is translated to a Minecraft block once, the result is cached, and the program should translate the same color quicker later
 - The max length for any dimension of the image is 256 blocks. The other dimension is scaled accordingly. For example, if an image is 500x1000, it will be 128x256 in Minecraft

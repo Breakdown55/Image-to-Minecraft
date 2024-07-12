@@ -4,7 +4,7 @@ A tool for converting images into an .mcfunction file to place blocks that recre
 # Download Executable (no account required) ⬇️
 [Dropbox Download](https://www.dropbox.com/scl/fi/hhzi6krv1obu86a060418/image_to_minecraft.exe?rlkey=f1g7sxc9vo3gy7b3a8c4yb4c7&st=prryoqua&dl=0)
 
-# Special Thanks to Ydop_ for the 🎉 [Showcase Video](about:blank) 🎉
+# Special Thanks to Ydop_ for the 🎉 [Showcase Video](https://www.youtube.com/watch?v=gwsmYY3bHac) 🎉
 
 # Support This Project ❤️
 Unfortunately, there isn't a PayPal or BuyMeACoffee link, but feel free to support by gifting me a rank on Hypixel :)))
